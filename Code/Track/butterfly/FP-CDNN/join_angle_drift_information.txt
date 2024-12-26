@@ -1,0 +1,16 @@
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+u_initial: 0
+joindrift: -0.000310495
+joindrift: 0.00377474
+joindrift: 0.00113997
+joindrift: -0.00229728
+joindrift: 0.000575292
+joindrift: -0.00589212
+joindriftnorm: 0.00748132
